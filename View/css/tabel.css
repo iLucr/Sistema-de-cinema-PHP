@@ -1,0 +1,30 @@
+.table101{
+    text-align: center;
+   margin-left: 15%;
+   margin-top: 10%;
+   font-size: 18px;
+
+}
+.td{
+    color: grey;
+}
+.td, tr{
+   color: white;
+    font-size: 12px;
+        text-align: center;
+      
+}
+.td, th{
+  background-color:#483D8B; 
+ font-size: 15px;
+  font-family: 'Didact Gothic', sans-serif;
+  text-align: center;
+ 
+}
+
+.imFilme{
+    background-color: transparent;
+ 
+ 
+}
+
